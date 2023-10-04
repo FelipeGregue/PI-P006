@@ -8,11 +8,11 @@ int main(){
     cout << "Digite dois valores inteiros: " << endl;
     cin >> a >> b;
 
-    c = 4 * a + b / 3 - 5
+    c = 4 * a + b / 3 - 5;
 
     cout << "Resultado: " << c << endl;
 
-    c = 4 * (a + b) / (3 - 5)
+    c = 4 * (a + b) / (3 - 5);
 
     cout << "Resultado com parentese: " << c << endl;
 
